@@ -237,7 +237,7 @@
       "<li>El inventario del distribuidor no se lleva por antigüedad; la vida útil se sigue solo en la planta.</li>" +
       "<li>No se despide a nadie: la dotación se reduce solo por las salidas.</li>" +
       "<li>Los costos y precios son ilustrativos, no una cotización.</li></ul>",
-    "foot.consult": "Supply Pulse <span id=\"ver-foot\"></span> · <a href=\"about.html\">Acerca de</a> · Disponible para consultorías — <a href=\"https://github.com/kathuman\" target=\"_blank\" rel=\"noopener\">contáctenos</a>",
+    "foot.consult": "Supply Pulse <span id=\"ver-foot\"></span> · <a href=\"about.html\">Acerca de</a>",
     "foot.note": "Un modelo de dinámica de sistemas de una cadena de suministro de alimentos y lácteos envasados: ecuaciones probadas, una línea base justa y los compromisos de cada palanca. Construido con <a href=\"https://claude.com\" target=\"_blank\" rel=\"noopener\">Claude</a>.",
     // about
     "a.sub": "ACERCA DE LA APLICACIÓN", "a.open": "Abrir el simulador", "a.eyebrow": "Acerca de la aplicación", "a.h1": "Supply Pulse",
@@ -254,9 +254,9 @@
     "a.how.p": "El modelo es un conjunto de stocks y flujos integrado semana a semana en pasos de tiempo pequeños, en JavaScript simple que corre por completo en su navegador. Las pruebas automáticas verifican que parte en equilibrio exacto, que cada unidad queda contabilizada, que un paso de tiempo menor da las mismas respuestas, que el pronóstico coincide con su solución exacta y que cada palanca produce el compromiso que afirma el tutorial. También se verifica contra el modelo cada afirmación que hacen las preguntas del tutorial.",
     "a.author.h": "Autor",
     "a.author.p": "Supply Pulse fue diseñado y construido por <b>Daniel Alberto Sepulveda Estay, PhD</b>, fundador de <a href=\"https://kathuman.github.io/estay-dynamics/\" target=\"_blank\" rel=\"noopener\">Estay Dynamics</a>. Trabaja en dinámica de sistemas, simulación y optimización de redes para cadenas de suministro y operaciones. Es doctor de la Universidad Técnica de Dinamarca (DTU) y magíster del Instituto Tecnológico de Massachusetts (MIT), y es miembro del consejo de la System Dynamics Society.",
-    "a.author.links": "<a href=\"https://kathuman.github.io/estay-dynamics/about.html\" target=\"_blank\" rel=\"noopener\">Más sobre Daniel →</a> · <a href=\"https://kathuman.github.io/estay-dynamics/contact.html\" target=\"_blank\" rel=\"noopener\">Contáctenos</a>",
+    "a.author.links": "<a href=\"https://kathuman.github.io/estay-dynamics/about.html\" target=\"_blank\" rel=\"noopener\">Más sobre Daniel →</a>",
     "a.cite": "<b>Para citar:</b> Sepulveda Estay, D. A. (2026). <em>Supply Pulse: a food and dairy supply chain simulator</em> (versión <span id=\"cite-ver\">4.1.0</span>) [Software]. https://kathuman.github.io/supply-pulse/",
-    "a.foot": "Supply Pulse v4.1.0 · <a href=\"index.html\">Abrir el simulador</a> · Disponible para consultorías — <a href=\"https://github.com/kathuman\" target=\"_blank\" rel=\"noopener\">contáctenos</a>"
+    "a.foot": "Supply Pulse v4.1.0 · <a href=\"index.html\">Abrir el simulador</a>"
   };
 
   // ---- mensajes de validación del modelo

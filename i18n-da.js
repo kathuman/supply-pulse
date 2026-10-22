@@ -237,7 +237,7 @@
       "<li>Distributørens lager opgøres ikke efter alder; holdbarheden følges kun på fabrikken.</li>" +
       "<li>Ingen afskediges: bemandingen falder kun, når folk fratræder.</li>" +
       "<li>Omkostninger og priser er illustrative, ikke et tilbud.</li></ul>",
-    "foot.consult": "Supply Pulse <span id=\"ver-foot\"></span> · <a href=\"about.html\">Om</a> · Tilgængelig for rådgivning — <a href=\"https://github.com/kathuman\" target=\"_blank\" rel=\"noopener\">kontakt</a>",
+    "foot.consult": "Supply Pulse <span id=\"ver-foot\"></span> · <a href=\"about.html\">Om</a>",
     "foot.note": "En systemdynamisk model af en forsyningskæde for emballerede fødevarer og mejeriprodukter: testede ligninger, en fair basislinje og hver løftestangs kompromiser. Bygget med <a href=\"https://claude.com\" target=\"_blank\" rel=\"noopener\">Claude</a>.",
     // om
     "a.sub": "OM APPEN", "a.open": "Åbn simulatoren", "a.eyebrow": "Om appen", "a.h1": "Supply Pulse",
@@ -254,9 +254,9 @@
     "a.how.p": "Modellen er et sæt lagre og strømme, der integreres uge for uge i små tidsskridt, i almindelig JavaScript, der kører helt i din browser. Automatiske tests kontrollerer, at den starter i præcis ligevægt, at hvert kolli er gjort op, at et mindre tidsskridt giver de samme svar, at prognosen stemmer med sin eksakte løsning, og at hver løftestang giver det kompromis, guiden påstår. Hver påstand i guidens spørgsmål kontrolleres også mod modellen.",
     "a.author.h": "Forfatter",
     "a.author.p": "Supply Pulse er udviklet af <b>Daniel Alberto Sepulveda Estay, PhD</b>, grundlægger af <a href=\"https://kathuman.github.io/estay-dynamics/\" target=\"_blank\" rel=\"noopener\">Estay Dynamics</a>. Han arbejder med systemdynamik, simulering og netværksoptimering for forsyningskæder og drift. Han er ph.d. fra Danmarks Tekniske Universitet (DTU) og har en kandidatgrad fra Massachusetts Institute of Technology (MIT), og han er medlem af System Dynamics Societys bestyrelse (council).",
-    "a.author.links": "<a href=\"https://kathuman.github.io/estay-dynamics/about.html\" target=\"_blank\" rel=\"noopener\">Mere om Daniel →</a> · <a href=\"https://kathuman.github.io/estay-dynamics/contact.html\" target=\"_blank\" rel=\"noopener\">Kontakt</a>",
+    "a.author.links": "<a href=\"https://kathuman.github.io/estay-dynamics/about.html\" target=\"_blank\" rel=\"noopener\">Mere om Daniel →</a>",
     "a.cite": "<b>Kildehenvisning:</b> Sepulveda Estay, D. A. (2026). <em>Supply Pulse: a food and dairy supply chain simulator</em> (version <span id=\"cite-ver\">4.1.0</span>) [Software]. https://kathuman.github.io/supply-pulse/",
-    "a.foot": "Supply Pulse v4.1.0 · <a href=\"index.html\">Åbn simulatoren</a> · Tilgængelig for rådgivning — <a href=\"https://github.com/kathuman\" target=\"_blank\" rel=\"noopener\">kontakt</a>"
+    "a.foot": "Supply Pulse v4.1.0 · <a href=\"index.html\">Åbn simulatoren</a>"
   };
 
   // ---- modellens meddelelser
